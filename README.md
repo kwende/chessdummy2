@@ -55,6 +55,7 @@ chess-train/
   play_chess_imitation.py
   ckpts/
   runs/
+```
 
 1. Verify the host GPU works
 
